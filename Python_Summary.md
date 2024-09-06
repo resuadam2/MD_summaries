@@ -1,5 +1,3 @@
-Claro, a continuación te proporciono un resumen ampliado que incluye estructuras condicionales e iterativas básicas en Python, además de variables, constantes, funciones, procedimientos, estructuras de datos comunes y clases:
-
 ### Sintaxis Básica de Python
 
 #### Variables y Constantes
